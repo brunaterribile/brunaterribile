@@ -5,7 +5,7 @@
 
 - 🖥️ Newcomer to the world of programming
 
-- 🤓 Always learning a new technology
+- 🤓  Always learning a new technology
 
 - 🧪 Graduated in biomedicine
 <br><br>
@@ -34,7 +34,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunaterribile&show_icons=true&count_private=true&hide_border=true&title_color=4f8054&icon_color=4f8054&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Terribile github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunaterribile&show_icons=true&count_private=true&hide_border=true&title_color=4f8054&icon_color=4f8054&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Terribile github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaterribile&layout=compact&hide_border=true&title_color=4f8054&text_color=4f8054&bg_color=0d1117" />
 </div>
 
