@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f8054&height=120&section=header"/>
 <h1 align="left">Hi, I'm Bruna Terribile </h1>
 
-- 🚀 Junior Back-end Developer at KoobJobs
+- 🚀 Junior Back-end Developer at Koob
 
 - 💗 Full Stack Developer by Driven Education
 
