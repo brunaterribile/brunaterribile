@@ -5,9 +5,7 @@
 
 - 💗 Full Stack Developer by Driven Education
 
-- 🖥️ Newcomer to the world of programming
-
-- 🤓  Currently studying Nest.js
+- 🤓 Currently studying Nest.js
 
 - 🧪 Graduated in biomedicine
   
