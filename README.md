@@ -10,6 +10,8 @@
 - 🤓  Currently studying Nest.js
 
 - 🧪 Graduated in biomedicine
+  
+- 🎓 Currently pursuing a degree in Computer Science
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
